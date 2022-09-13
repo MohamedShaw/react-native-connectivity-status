@@ -1,24 +1,48 @@
 {
-  "name": "react-native-connectivity-status",
-  "version": "1.5.2",
-  "description": "A ReactNative module to check Bluetooth and Location status on Android and iOS",
+  "_args": [
+    [
+      "react-native-connectivity-status@1.5.2",
+      "/Users/index/Documents/courier-mobile-provider"
+    ]
+  ],
+  "_from": "react-native-connectivity-status@1.5.2",
+  "_id": "react-native-connectivity-status@1.5.2",
+  "_inBundle": false,
+  "_integrity": "sha512-w1zmJETgn1XvmZ20q69k5yuvA4dUWFbDfR0MOfQWKB9I3xKnNhFABIOoqVc6pvll3zjnSurIhbzkMgUVONrXqw==",
+  "_location": "/react-native-connectivity-status",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-connectivity-status@1.5.2",
+    "name": "react-native-connectivity-status",
+    "escapedName": "react-native-connectivity-status",
+    "rawSpec": "1.5.2",
+    "saveSpec": null,
+    "fetchSpec": "1.5.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-connectivity-status/-/react-native-connectivity-status-1.5.2.tgz",
+  "_spec": "1.5.2",
+  "_where": "/Users/index/Documents/courier-mobile-provider",
   "author": {
     "name": "Mattia Panzeri",
     "email": "mattia.panzeri93@gmail.com",
     "url": "https://github.com/panz3r"
   },
-  "contributors": [
-    "Federico Boschini <federico@nearit.com>"
-  ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nearit/react-native-connectivity-status.git"
-  },
-  "homepage": "https://github.com/nearit/react-native-connectivity-status",
   "bugs": {
     "url": "https://github.com/nearit/react-native-connectivity-status/issues"
   },
+  "contributors": [
+    {
+      "name": "Federico Boschini",
+      "email": "federico@nearit.com"
+    }
+  ],
+  "description": "A ReactNative module to check Bluetooth and Location status on Android and iOS",
+  "homepage": "https://github.com/nearit/react-native-connectivity-status",
   "keywords": [
     "react-native",
     "android",
@@ -26,11 +50,18 @@
     "bluetooth",
     "location"
   ],
+  "license": "MIT",
   "main": "index.js",
+  "name": "react-native-connectivity-status",
+  "peerDependencies": {
+    "react-native": ">=0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearit/react-native-connectivity-status.git"
+  },
   "scripts": {
     "test": "echo \"No test specified\""
   },
-  "peerDependencies": {
-    "react-native": ">=0.41.2"
-  }
+  "version": "1.5.2"
 }
